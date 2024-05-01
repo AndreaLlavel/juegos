@@ -1,0 +1,108 @@
+body {
+    margin: 0;
+    width: 80vw;
+    height: 500vh;
+    display:contents;
+    place-items: center;
+    overflow: hidden;
+    background: grey;
+}
+
+#watch {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 150px;
+    height: 60px;
+    border: 2px solid greenyellow;
+    color: greenyellow;
+    background-color: black;
+    border-radius: 20%;
+    font-family: monospace;
+    font-size: 1.9rem;
+    box-shadow: 18px 25px 50px #000;
+}
+
+img {
+    box-shadow: 18px 25px 50px #000;
+}
+
+.form-register {
+    width: 400px;
+    background: greenyellow;
+    padding: 30px;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 4px;
+    font-family: "calibri";
+    color: white;
+    box-shadow: 7px 13px 37px #000;
+}
+
+.form-register h4 {
+    font-size: 32px;
+    margin-bottom: 20px;
+}
+
+h4 {
+    color: #000;
+    background-color: white;
+    font-size: 33px;
+    margin-bottom: 12px;
+}
+
+.controls {
+    width: 100%;
+    background-color: black;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border: 1px solid greenyellow;
+    font-family: "calibri";
+    font-size: 16px;
+}
+
+.form-register p {
+    height: 40px;
+    text-align: center;
+    font-size: 18px;
+    line-height: 40px;
+    
+}
+
+.form-register a {
+    color: white;
+    text-decoration: none;
+}
+
+.form-register a:hover {
+    color: white;
+    text-decoration: underline;
+
+}
+
+.form-register .botons {
+    width: 100%;
+    background: greenyellow;
+    border: none;
+    padding: 12px;
+    color: white;
+    margin: 16px  0;
+    font-size: 16px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
